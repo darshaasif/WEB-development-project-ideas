@@ -1,0 +1,9 @@
+Objective :
+The calculator should be able to perform basic arithmetic operations like addition, subtraction, multiplication, and division. 
+It could also include more advanced mathematical functions like square root, exponentiation, logarithms, trigonometric functions, etc.
+It should handle errors gracefully. For example, if a user tries to divide by zero, the calculator should display an appropriate error message instead of crashing or displaying incorrect results.
+
+high level approach :
+firstly Understand the requirements of the project. What kind of calculator is it going to be? A simple calculator with basic arithmetic operations or a scientific calculator with more advanced functions?
+
+secondly Sketch the user interface of the calculator. It should be user-friendly and intuitive. Plan how the calculator will look on different devices (desktop, tablet, mobile).
