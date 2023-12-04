@@ -1,0 +1,16 @@
+Objective:
+You will be creating a full-stack website that uses the student information from a database as input and generates his/her result in PDF format as output which can then be downloaded and shared.
+
+High-Level Approach:
+Firstly, we will be understanding the end goal of this project i.e. Result Section.
+Thereafter, we move towards the Database part starting from naive queries to optimizing it.
+Then, we will jump to the Admin Section for performing various activities that previously were done manually i.e. data addition and modification.
+Authentication for admin section will then take place.
+Then, we will Club things all together into our system.
+
+Primary goals:
+Performing normalization of the database.
+Performing various database queries.
+Automating the addition and modification of student data.
+Implement an authentication system for admin.
+Generate the result in PDF format and download it.
